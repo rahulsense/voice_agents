@@ -99,11 +99,11 @@ If voicemail functionality is required:
 
 ### 6.2 Dynamic Questions State (if applicable)
 
-- Do not modify this section; it contains dynamic question logic that should remain unchanged
-
+- Only change dynamic_questions_count wherever its mentioned in the prompt based on Asana form specifications 
 ### 6.3 Static Questions State (if applicable)
 
-- Edit ONLY the question text
+- Edit the question text
+- Only change static_questions_count wherever its mentioned in the prompt based on Asana form specifications
 - Do not modify the underlying structure or variable assignments
 - Update all questions according to Asana form specifications
 
