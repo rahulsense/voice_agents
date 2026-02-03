@@ -261,6 +261,8 @@ field_writeback: "{\"preferred_language\": \"<preferred_language>\"}"
 For example, if the user says "English", <preferred_language> should map to "Eng".
 ```
 
+To test out FWB please follow this [doc](https://github.com/rahulsense/testing_out_WBs)
+
 ## Step 8: Import Voice Agent to Agency via Lowcoder
 
 ### 8.1 Connect to VPN
